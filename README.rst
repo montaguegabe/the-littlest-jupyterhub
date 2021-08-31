@@ -2,10 +2,10 @@
 The Littlest JupyterHub
 =======================
 
-.. image:: https://circleci.com/gh/jupyterhub/the-littlest-jupyterhub.svg?style=shield
-   :target: https://circleci.com/gh/jupyterhub/the-littlest-jupyterhub
-.. image:: https://codecov.io/gh/jupyterhub/the-littlest-jupyterhub/branch/master/graph/badge.svg
-  :target: https://codecov.io/gh/jupyterhub/the-littlest-jupyterhub
+.. image:: https://circleci.com/gh/montaguegabe/the-littlest-jupyterhub.svg?style=shield
+   :target: https://circleci.com/gh/montaguegabe/the-littlest-jupyterhub
+.. image:: https://codecov.io/gh/montaguegabe/the-littlest-jupyterhub/branch/master/graph/badge.svg
+  :target: https://codecov.io/gh/montaguegabe/the-littlest-jupyterhub
 .. image:: https://readthedocs.org/projects/the-littlest-jupyterhub/badge/?version=latest
    :target: https://the-littlest-jupyterhub.readthedocs.io
 .. image:: https://badges.gitter.im/jupyterhub/jupyterhub.svg
@@ -76,6 +76,6 @@ our code: we aim to improve it as often as possible.
 
 If something is confusing to you in the documentation, it is a bug. We would be
 happy if you could `file an issue
-<https://github.com/jupyterhub/the-littlest-jupyterhub/issues>`_ about it - or
+<https://github.com/montaguegabe/the-littlest-jupyterhub/issues>`_ about it - or
 even better, `contribute a documentation fix
 <http://the-littlest-jupyterhub.readthedocs.io/en/latest/contributing/docs.html>`_!
