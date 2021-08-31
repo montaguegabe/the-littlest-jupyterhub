@@ -2,16 +2,11 @@
 The Littlest JupyterHub
 =======================
 
-.. image:: https://circleci.com/gh/montaguegabe/the-littlest-jupyterhub.svg?style=shield
-   :target: https://circleci.com/gh/montaguegabe/the-littlest-jupyterhub
-.. image:: https://codecov.io/gh/montaguegabe/the-littlest-jupyterhub/branch/master/graph/badge.svg
-  :target: https://codecov.io/gh/montaguegabe/the-littlest-jupyterhub
-.. image:: https://readthedocs.org/projects/the-littlest-jupyterhub/badge/?version=latest
-   :target: https://the-littlest-jupyterhub.readthedocs.io
-.. image:: https://badges.gitter.im/jupyterhub/jupyterhub.svg
-   :target: https://gitter.im/jupyterhub/jupyterhub
-.. image:: https://img.shields.io/badge/I_want_to_contribute!-grey?logo=jupyter
-   :target: https://the-littlest-jupyterhub.readthedocs.io/en/latest/contributing/index.html
+**This fork is compatible with ARM64/ARCH64 linux (new t4 instances on AWS).
+
+To use, substitude the command in normal installation with:
+
+`curl -L https://raw.githubusercontent.com/montaguegabe/the-littlest-jupyterhub/master/bootstrap/bootstrap.py   | sudo /usr/bin/python3 -     --admin adminnamegoeshere`
 
 **The Littlest JupyterHub** (TLJH) distribution helps you provide Jupyter Notebooks
 to 1-100 users on a single server.
